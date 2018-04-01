@@ -1,0 +1,15 @@
+{
+    "name": "pequitech/larahook",
+    "description": "Laravel Hookathon client",
+    "authors": [
+        {
+            "name": "Renoir dos Reis",
+            "email": "renofaria@gmail.com"
+        },
+        {
+            "name": "Marcelo Bernardes",
+            "email": "mmbdeng@gmail.com"
+        }
+    ],
+    "require": {}
+}
